@@ -1,0 +1,7 @@
+dopamine-rl==3.0.1
+gin-config==0.3.0
+tensorflow==1.15.0
+tensorboard==1.15.0
+absl-py==1.0.0
+protobuf~=3.19.0
+numpy==1.19.5
