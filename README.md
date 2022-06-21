@@ -23,7 +23,9 @@ and fail to make an appropriate tradeoff to maximize long-term user engagement.
 
 
 #### About
-Please refer to the [paper](BSc_Thesis_Luca_Pantea.pdf) for an in-depth treatment on the subject matter. \
+Please refer to the [paper](BSc_Thesis_Luca_Pantea.pdf) for an in-depth treatment on the subject matter.
+
+Main Contributions: `recsim/environments`, `experiments.py`, `main.py`
 
 This project of is a part of the 2022 Edition of CSE3000 Research Project course at Delft University of Technology. 
 
